@@ -11,3 +11,16 @@ p {
     font-size: 12px;
     margin-right: 50px;
 }
+
+#tasks {
+    font-size: 12px;
+}
+
+#code {
+    background-color: black;
+    color:white;
+    font-family: monospace;
+    font-size:12px;
+    width:100%;
+    padding: 10px;
+}
