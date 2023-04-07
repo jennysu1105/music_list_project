@@ -12,7 +12,15 @@ p {
     margin-right: 50px;
 }
 
-#tasks {
+li.task {
+    margin-bottom: 10px;
+}
+
+span.title {
+    text-decoration: underline;
+}
+
+#task1s {
     font-size: 12px;
 }
 
